@@ -1,4 +1,4 @@
-![logo](https://github.com/Ryme-e/Ryme/blob/main/IMG_8868.JPG)
+![logo](https://github.com/Ryme-e/Ryme/blob/main/IMG_8868.JPG](https://github.com/Ryme-e/Ryme/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi, I'm Ryme</h1>
 <h3 align="center">A passionate frontend developer and coding student</h3>
 
