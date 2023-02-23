@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Ryme-e/Ryme/blob/main/IMG_8868.JPG)
 <h1 align="center">Hi, I'm Ryme</h1>
 <h3 align="center">A passionate frontend developer and coding student</h3>
 
